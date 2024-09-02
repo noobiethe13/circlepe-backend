@@ -1,7 +1,10 @@
-Backend Repository for CirclePe Assessment:
-Tech Stack: Nodejs/Expressjs & MongoDB
+# Backend Repository for CirclePe Assessment:</br>
+Tech Stack: Nodejs/Expressjs & MongoDB</br>
 
-Endpoints List:
+# Dataflow Diagram:</br>
+<img src = "https://github.com/user-attachments/assets/0802baf1-4986-47da-a401-3923f1f883a1" width="400">
+
+# Endpoints List:
 1. /api/trades/
 
     - / (POST)
